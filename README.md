@@ -1,0 +1,1 @@
+Splitting node project is a method that can split a v2ray subscription set into multiple independent nodes, then convert them into base64 encoding and store them in multiple txt files on any PHP supported virtual host to solve the problem of independent subscription requirements
