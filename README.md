@@ -4,9 +4,15 @@ When you enter the correct node information on the page, or upload node content 
 
 example:
 http://liangge.free.fr/node/index.php
+
 http://liangge.free.fr/node/1.txt
+
 http://liangge.free.fr/node/2.txt
+
 .
+
 .
+
 .
+
 http://liangge.free.fr/node/99.txt
